@@ -24,7 +24,7 @@ A web application that combines OpenAI's Whisper for speech-to-text transcriptio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/audio-transcription-tool.git
+git clone https://github.com/katkamarun/audio-transcription-tool.git
 cd audio-transcription-tool
 ```
 
@@ -78,9 +78,6 @@ audio-transcription-tool/
 
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 
