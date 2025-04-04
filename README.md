@@ -1,4 +1,4 @@
-# AI-Powered Media Transcription & Content Analysis Suite
+# AI-Powered Media Transcription & Content Analysis 
 
 A web application that combines OpenAI's Whisper for speech-to-text transcription and Llama 3.2 for intelligent content analysis. This tool processes both audio and video files to generate accurate transcriptions, titles, and summaries.
 
