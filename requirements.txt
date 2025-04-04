@@ -1,0 +1,8 @@
+whisper
+ollama
+instructor
+pydantic
+streamlit
+openai
+ffmpeg-python
+pydub
