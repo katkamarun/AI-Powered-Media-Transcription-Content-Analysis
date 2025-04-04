@@ -1,4 +1,4 @@
-# Audio/Video Transcription & Analysis Tool
+# AI-Powered Media Transcription & Content Analysis Suite
 
 A web application that combines OpenAI's Whisper for speech-to-text transcription and Llama 3.2 for intelligent content analysis. This tool processes both audio and video files to generate accurate transcriptions, titles, and summaries.
 
@@ -75,9 +75,6 @@ audio-transcription-tool/
    - Send transcript to Llama 3.2 via Ollama
    - Generate title and summary
    - Display structured results
-
-
-
 
 ## Author
 
