@@ -78,6 +78,6 @@ audio-transcription-tool/
 
 ## Author
 
-[Your Name]
+[ARUN KATKAM]
 - GitHub: [katkamarun](https://github.com/katkamarun)
 - Upwork: [https://www.upwork.com/freelancers/~013c73287cb4edd7e0?mp_source=share]
